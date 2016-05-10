@@ -1,9 +1,12 @@
-skin.CarPC-touch_carbon_800x480
+If you want to suport my work, to continue this, you can make a donation.
+
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AMXESTYHM96HN)
+
+
+skin.CarPC-touch_carbon
 =======================
 
-skin_kodi
-This skin still have res. 1280x720 but i modified home interface to see the logo normal(not oval).
-
+skin_xbmc
 Update 2.09.2015
 - Fixed file manager and add button in home.
 
