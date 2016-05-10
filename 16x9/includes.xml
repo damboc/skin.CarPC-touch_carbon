@@ -534,7 +534,7 @@
                 <height>37</height>
                 <info>Player.Volume</info>
             </control>
-            <control type="slider" id="1">
+<!--            <control type="slider" id="1">
                 <description>Volume Slider</description>
                 <posx>0</posx>
                 <posy>5</posy>
@@ -545,7 +545,7 @@
                 <texturesliderbar>OSDProgressBack2.png</texturesliderbar>
                 <textureslidernib>OSDSliderNib.png</textureslidernib>
                 <textureslidernibfocus>OSDSliderNib.png</textureslidernibfocus>
-            </control>
+            </control> -->
         </control>
     </include>
     <include name="BottomSeekPlayback">
