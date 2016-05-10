@@ -276,10 +276,10 @@
     <include name="Logob">
         <control type="image">
             <description>Normal Default Logo Image</description>
-            <posx>430</posx>
-            <posy>137</posy>
-            <width>419</width>
-            <height>419</height>
+            <posx>432</posx>
+            <posy>150</posy>
+            <width>415</width>
+            <height>390</height>
             <aspectratio></aspectratio>
             <texture>logo_b.png</texture>
             <visible>!Window.IsVisible(ExtendedProgressDialog) + !Skin.HasSetting(HideHomeButtonLogob)</visible>
